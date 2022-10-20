@@ -1,4 +1,4 @@
-<h1>Recipe API</h1>
+<h1>Recipe API 🥙</h1>
 
 <p>This is an API used to perform CRUD actions on a MongoDB database, and created using Node.js/Express.js.</p>
 
