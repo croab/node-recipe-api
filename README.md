@@ -2,7 +2,7 @@
 
 <p>This is an API used to perform CRUD actions on a MongoDB database, and created using Node.js/Express.js.</p>
 
-<h2>Setting up a config.env file<h2>
+<h2>Setting up a config.env file</h2>
 <p>This project is not in production - to recreate the required database for this project please make an account with MongoDB.
   Then, select the 'Connect' option on this database and then the 'connect your application' option. Ensure that Node.js is selected as the driver
   and make note of the connection string. Ensure that an account is setup within 'Database Access' and make note of the password.</p>
